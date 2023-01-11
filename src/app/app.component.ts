@@ -86,7 +86,7 @@ export class AppComponent {
     } else if (this.numLength >= 19 && this.numLength < 21) {
       this.fontSize = '20px'
     } else {
-      this.fontSize = '20px'
+      this.fontSize = '19px'
       this.click = true
     }
   }
